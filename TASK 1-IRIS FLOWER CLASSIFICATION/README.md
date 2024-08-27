@@ -33,5 +33,5 @@ Once the dataset has been preprocessed, we can train the logistic regression mod
 
 # Evaluation of the Model
 
-After training the model, we need to evaluate its performance on the testing set. We will use metrics such as accuracy, precision, recall, and F1 score to evaluate the model's performance. These metrics will help us determine how well the model is performing and identify areas where it can be improved.
+After training the model, we need to evaluate its performance on the testing set. We will use metrics such as accuracy, precision, recall, and F1 score to evaluate the model's performance. These metrics will help us determine how well the model is performing and identify areas where it can be improved.In this classification I used Logistic Regression and achieved 95% accuracy.
 
